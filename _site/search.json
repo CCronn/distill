@@ -14,8 +14,8 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\nR what?\r\nTutorials for R will be arriving soon. Hopefully they will come in handy.\r\nThank you for visiting. If you have any feedback I would really appreciate if you would contact me. Thank you.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-19T16:43:55+00:00"
+      "last_modified": "2022-01-19T17:40:53+00:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
