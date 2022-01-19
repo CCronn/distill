@@ -1,0 +1,25 @@
+---
+title: "Home"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+### R what? 
+
+[Tutorials](tutorials.html) for R will be arriving soon. Hopefully they will come in handy. 
+
+
+Thank you for visiting. If you have any feedback I would really appreciate if you would contact me. Thank you. 
+
+
+

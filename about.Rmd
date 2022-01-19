@@ -1,0 +1,14 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# What’s the goal?  
+
+Over the last year I have benefited greatly from the help and knowledge of the online R community. I would now like to give back. I have picked topics that I encountered difficulty finding tutorials on. Hopefully this will be of help to the next people that go looking for these tutorials.

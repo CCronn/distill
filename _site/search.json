@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nWhat’s the goal?\r\nOver the last year I have benefited greatly from the help and knowledge of the online R community. I would now like to give back. I have picked topics that I encountered difficulty finding tutorials on. Hopefully this will be of help to the next people that go looking for these tutorials.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-19T16:43:51+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Home",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nR what?\r\nTutorials for R will be arriving soon. Hopefully they will come in handy.\r\nThank you for visiting. If you have any feedback I would really appreciate if you would contact me. Thank you.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-19T16:43:55+00:00"
+    }
+  ],
+  "collections": []
+}
