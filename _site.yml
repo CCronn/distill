@@ -1,10 +1,10 @@
 name: "website"
-title: "Boop"
+title: "R what?"
 description: |
-  Boop
+  R what?
 output_dir: "_site"
 navbar:
-  title: "R what?"
+  title: "R What?"
   left:
    - icon: fa-github fa-lg
      href: http://github.com/CCronn/
@@ -12,5 +12,8 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-      href: about.html 
+      href: about.html
+    - text: "Tutorials"
+      href: tutorials.html
 output: distill::distill_article
+theme: boop.css

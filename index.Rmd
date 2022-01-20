@@ -1,7 +1,5 @@
 ---
 title: "Home"
-description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -14,12 +12,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-### R what? 
+### 
 
-[Tutorials](tutorials.html) for R will be arriving soon. Hopefully they will come in handy. 
+**Tutorials** for R will be arriving soon. Hopefully they will come in handy. 
 
 
-Thank you for visiting. If you have any feedback I would really appreciate if you would contact me. Thank you. 
+Thank you for visiting. If you have any feedback I would love to hear it. 
 
 
 

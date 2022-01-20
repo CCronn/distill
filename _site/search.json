@@ -2,19 +2,25 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About",
+      "description": "What’s the goal? ",
       "author": [],
-      "contents": "\r\nWhat’s the goal?\r\nOver the last year I have benefited greatly from the help and knowledge of the online R community. I would now like to give back. I have picked topics that I encountered difficulty finding tutorials on. Hopefully this will be of help to the next people that go looking for these tutorials.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-19T16:43:51+00:00"
+      "contents": "\r\nI began learning to use R in January 2021. During that time, many hours were spent googling and figuring out little issues along the way. When I needed help there were countless blogs, threads and videos to assist me. I have benefited greatly from the help and knowledge of the online R community. I would now like to give back.\r\nI will gradually add to this website with regard to methodology that I have used in my analyses among other topics. Hopefully this will be a helpful resource for someone.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-20T00:17:40+00:00"
     },
     {
       "path": "index.html",
       "title": "Home",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\nR what?\r\nTutorials for R will be arriving soon. Hopefully they will come in handy.\r\nThank you for visiting. If you have any feedback I would really appreciate if you would contact me. Thank you.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-19T17:40:53+00:00"
+      "contents": "\r\n\r\nTutorials for R will be arriving soon. Hopefully they will come in handy.\r\nThank you for visiting. If you have any feedback I would love to hear it.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-20T00:17:42+00:00"
+    },
+    {
+      "path": "tutorials.html",
+      "title": "Tutorials",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-20T00:17:45+00:00"
     }
   ],
   "collections": ["posts/posts.json"]
